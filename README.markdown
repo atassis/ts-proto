@@ -289,7 +289,7 @@ protobuf {
 
 Generated code will be placed in the Gradle build directory.
 
-### Supported options
+# Supported options
 
 See [here](./docs/supported-options-new.md)
 
