@@ -291,7 +291,7 @@ Generated code will be placed in the Gradle build directory.
 
 # Supported options
 
-See [here](./docs/supported-options-new.md)
+See [here](./docs/supported-options)
 
 ### NestJS Support
 
